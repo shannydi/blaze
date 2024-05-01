@@ -1,0 +1,6 @@
+joblib==1.4.0
+numpy==1.24.4
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+pandas==2.0.3
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+streamlit==1.33.0
